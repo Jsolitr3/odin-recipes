@@ -1,0 +1,19 @@
+.heading{
+    font-size: 100px;
+    color: darkblue;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    animation: ease-in;
+}
+.listpic{
+ height: auto;
+ width: 300px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.recipe{
+    font-size: 25px;
+    text-align: center;
+}
